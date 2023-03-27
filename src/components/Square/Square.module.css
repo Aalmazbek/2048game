@@ -1,0 +1,21 @@
+.square{
+    /* width: 23%;
+    height: 23%; */
+
+    /* background-color: wheat; */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 5px;
+
+    transition: 0.3s;
+}
+
+
+.none{
+    background: rgb(116, 116, 116);
+}
+
+
